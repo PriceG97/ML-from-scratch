@@ -28,9 +28,6 @@ This project also serves as a portfolio piece to show my technical depth and pro
 This is just the beginning. Future additions will include:
 - **Classification models** (e.g., logistic regression, k-NN)
 - **Neural networks**
-- **Regularisation techniques**
-- **Model selection utilities**
-- **Visualisation tools**
 - And more...
 
 ## ⚙️ Requirements
