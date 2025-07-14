@@ -5,7 +5,7 @@ This repository contains a collection of core machine learning components implem
 ## 📦 What's Included
 
 - **📊 Metrics**: Custom implementations of common evaluation metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and others.
-- **📐 Feature Scaling**: Functions to standardize and normalize features (e.g., StandardScaler, MinMaxScaler).
+- **📐 Feature Scaling**: Functions to standardise and normalise features (e.g., StandardScaler, MinMaxScaler).
 - **🔀 Data Splitting**: A `train_cv_test_split` utility to divide your dataset into training, cross-validation, and test sets with configurable ratios and random shuffling.
 - **📈 Linear Regression**: Full implementation of a linear regression model trained using gradient descent, including:
   - Weight and bias updates
